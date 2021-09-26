@@ -1,0 +1,3 @@
+[submodule "submodule/strat"]
+	path = submodule/strat
+	url = https://github.com/CryptoMMOFC/strat.git

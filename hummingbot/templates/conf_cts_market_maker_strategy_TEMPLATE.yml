@@ -1,4 +1,6 @@
 template_version: 1
 strategy: null
 connector: null
+
+# Exchange and trading pair parameters
 market: null

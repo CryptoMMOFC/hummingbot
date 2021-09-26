@@ -19,7 +19,7 @@ cts_market_maker_config_map = {
     "strategy":
         ConfigVar(key="strategy",
                   prompt="",
-                  default="cts_mm",
+                  default="cts_market_maker",
                   ),
     "connector":
         ConfigVar(key="connector",
